@@ -1,0 +1,5 @@
+,training_time,val_accuracy,F1_score
+BERT,1125.614,0.812,0.768
+Electra-small,422.668,0.766,0.725
+Albert-base,1156.578,0.812,0.761
+Roberta-base, ,0.837,0.782
